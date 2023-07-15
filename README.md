@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=iskandarsh" alt="iskandarsh" /></a> </p>
 
-- 🔭 I’m currently working on [Ajari](https://play.google.com/store/apps/details?id=id.noersy.ajari)
+- 🔭 I’m currently working on [Ajari](https://play.google.com/store/apps/details?id=id.noersy.ajari) and [KokolaGroup][https://kokola.co.id/]
 
 - 🌱 I’m currently learning **Kotlin**
 
